@@ -37,3 +37,4 @@ Overall, the flow of the application should look something like this:
 - Create a List component that holds the rendered items.
 - Create a button with functionality to clear the list.
 - Display the number of items in the list using the length property of the state variable. This can be rendered using plain text or added to a message or heading element.
+# Birthday-Buddy-simple-react-app
